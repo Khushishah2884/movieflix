@@ -96,7 +96,7 @@ function MovieDetails() {
                 const token = localStorage.getItem('token');
                 if (user && user.email && token) {
                   try {
-                    await fetch('http://localhost:2001/api/save-movie', {
+                    const resp = await fetch('http://localhost:2001/api/save-movie', {
                       method: 'POST',
                       headers: {
                         'Content-Type': 'application/json',
@@ -108,6 +108,7 @@ function MovieDetails() {
                         moviePoster: movie.Poster
                       })
                     });
+                    console.log(resp);
                   } catch (e) {
                     // ignore backend error, still saved locally
                   }

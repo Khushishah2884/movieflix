@@ -64,6 +64,7 @@ function Signup() {
           password: form.password,
         }),
       });
+      console.log(JSON.stringify(res));
       const data = await res.json();
       if (!res.ok) {
         setErrors({ api: data.message });
