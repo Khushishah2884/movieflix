@@ -20,7 +20,22 @@ MovieFlix is a full-featured **Movie Streaming Web Application** built using the
 ---
 
 ## 🖼️ Screenshots
+![Screenshot (41)](https://github.com/user-attachments/assets/064c394a-4cf1-4eca-abfe-11aff9df49bb)
 
-> Include some screenshots here of your home page, login screen, profile section, and streaming view.
+![Screenshot (42)](https://github.com/user-attachments/assets/b0a081a5-7c47-4214-9104-9f894c601294)
+
+![Screenshot (49)](https://github.com/user-attachments/assets/7b717511-c6d8-468e-a490-46327f4e2047)
+
+![Screenshot (46)](https://github.com/user-attachments/assets/0f625e62-cc15-4283-af27-396705b6a353)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/be51a7cd-af65-49f3-ba3b-1a2e38ad50e3)
+
+![Screenshot (45)](https://github.com/user-attachments/assets/a49efbe6-b4cb-4b90-9147-4bf0c7d3b43c)
+
+
+
+
+
+
 
 ---
